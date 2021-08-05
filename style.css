@@ -1,0 +1,16 @@
+body{
+    width: 80vh;
+    height: 70vh;
+    background-image: url("./imgs/pista.png")
+}
+
+#box { 
+    width: 100px;
+    height: 100px;
+    position: absolute; 
+    left: 200px; 
+    top: 200px; 
+}
+img{
+    height: 100%;
+}
